@@ -17,7 +17,7 @@ punane_auto = pygame.transform.scale(punane_auto, (60, 100))
 sinine_auto = pygame.transform.scale(sinine_auto, (60, 100))
 sinine_auto = pygame.transform.rotate(sinine_auto, 180)
 
-# Siniste autode andmed
+#Siniste autode andmed
 autode_arv = 1
 sinised_autod = []
 
